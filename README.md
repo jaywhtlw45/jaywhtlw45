@@ -39,7 +39,7 @@ Welcome to my GitHub! I’m a passionate developer focused on building meaningfu
 
 ## 🏗️ *Before Tech*
 
-I come from a background in **construction management**, where I led teams, tackled complex logistics, and delivered results under pressure — all skills I bring to software development.
+I come from a background in **construction** where I spent years solving real-world problems, reading blueprints, and building parts for complex projects. I also worked in sales management for over a decade, where I developed leadership skills and built strong relationships with clients and teams.
 
 ---
 
