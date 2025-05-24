@@ -4,14 +4,14 @@ Welcome to my GitHub! I’m a passionate developer focused on building meaningfu
 
 ---
 
-## 🚧 *Current Projects*
+## 🚧 *Projects*
 
-- 🔥 **Level Up** – Full stack workout tracker built from the ground up with ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black). Currently building the frontend.
-- 🌍 **Meet in the Middle (MITM)** – Backend in ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) using ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white), with ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) and Mongoose for data.
-- 🧠 **Brain Tumor Classification** – Built a CNN model to classify MRI scans for early detection.
-- 🧬 **Facial Recognition Analysis** – Used ![DeepFace](https://img.shields.io/badge/-DeepFace-lightgrey?style=flat) and ![ArcFace](https://img.shields.io/badge/-ArcFace-lightgrey?style=flat) for facial recognition projects.
-- 🎮 **Tic Tac Toe LAN** – C++ socket-based project with three milestones: local AI, peer-to-peer, and centralized multiplayer.
-- 💰 **Finance DBMS** – SQL-powered system for tracking and querying personal transactions.
+- 🔥 **[Level Up](https://github.com/jaywhtlw45/level-up)** – Full stack workout tracker built from the ground up with ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black). Currently building the frontend.
+- 🌍 **[Meet in the Middle (MITM)](https://github.com/jaywhtlw45/Meet_in_the_Middle)** – Backend in ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) using ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white), with ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) and Mongoose for data.
+- 🧠 **[Brain Tumor Classification](https://github.com/Nerdeee/Brain-Tumor-Classification)** – Built a CNN model to classify MRI scans for early detection.
+- 🧬 **[Facial Recognition Analysis](https://github.com/thinzzelle/Facial-Recognition-Bias-Analysis)** – Used [DeepFace](https://github.com/serengil/deepface?tab=readme-ov-file) to analyze the performance of industry leading facial recognition models including Google FaceNet, Facebook DeepFace, and ArcFace.
+- 🎮 **[Tic Tac Toe LAN](https://github.com/FearsyGox/Tictac)** – C++ socket-based project with three modes: local AI, peer-to-peer, and centralized multiplayer.
+- 💰 **[Finance DBMS](https://github.com/jaywhtlw45/Finance-Data-Management)** – Designed a SQL-powered database that models a banking system that properly handles side effects.
 
 ---
 
