@@ -50,11 +50,11 @@ When I’m not writing code, you’ll probably find me at the grill or spending 
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   3 hrs 53 mins   ███████████████████████▓░   94.06 %
-HTML         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
-Markdown     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+JavaScript   4 hrs 4 mins    █████████████████▓░░░░░░░   70.20 %
+HTML         1 hr 15 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.60 %
+CSS          25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
+Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
