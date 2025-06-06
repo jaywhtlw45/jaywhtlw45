@@ -50,11 +50,11 @@ When I’m not writing code, you’ll probably find me at the grill or spending 
 <!--START_SECTION:waka-->
 
 ```txt
-Python       12 hrs          ████████████████████▓░░░░   83.17 %
-Vim Script   1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
-JSON         39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
-i3config     17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-Markdown     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Python       14 hrs 9 mins   █████████████████████▒░░░   84.68 %
+Vim Script   1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
+JSON         48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
+i3config     17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Markdown     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
 ```
 
 <!--END_SECTION:waka-->
