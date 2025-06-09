@@ -50,11 +50,11 @@ When I’m not writing code, you’ll probably find me at the grill or spending 
 <!--START_SECTION:waka-->
 
 ```txt
-Python       11 hrs 17 mins  ██████████████████████▓░░   90.53 %
-JSON         50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
-Markdown     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-xmodmap      4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-i3config     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Python       8 hrs 56 mins   ██████████████████████▓░░   91.29 %
+JSON         25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+Markdown     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+xmodmap      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+i3config     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 ```
 
 <!--END_SECTION:waka-->
