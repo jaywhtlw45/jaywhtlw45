@@ -50,11 +50,11 @@ When I’m not writing code, you’ll probably find me at the grill or spending 
 <!--START_SECTION:waka-->
 
 ```txt
-Python       4 hrs 13 mins   ██████████████████████░░░   88.41 %
-JSON         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
-Text         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
-CSS          7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
-TypeScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Python       1 hr 14 mins    ███████████████████▒░░░░░   76.72 %
+Text         9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 %
+CSS          7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
+TypeScript   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 ```
 
 <!--END_SECTION:waka-->
