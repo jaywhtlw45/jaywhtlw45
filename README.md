@@ -50,11 +50,11 @@ When I’m not writing code, you’ll probably find me at the grill or spending 
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         24 mins         █████████████▒░░░░░░░░░░░   53.52 %
-Bash         14 mins         ███████▓░░░░░░░░░░░░░░░░░   31.22 %
-Python       4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 %
-JavaScript   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+YAML       1 hr 21 mins    ███████████▒░░░░░░░░░░░░░   44.86 %
+Bash       55 mins         ███████▓░░░░░░░░░░░░░░░░░   30.12 %
+PHP        30 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.85 %
+Docker     9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+Python     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
 ```
 
 <!--END_SECTION:waka-->
