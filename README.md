@@ -50,11 +50,11 @@ When I’m not writing code, you’ll probably find me at the grill or spending 
 <!--START_SECTION:waka-->
 
 ```txt
-PHP        8 hrs 8 mins    ██████████████████▒░░░░░░   73.51 %
-JSON       59 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
-YAML       38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
-Vue.js     37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
-Docker     15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+PHP      8 hrs 8 mins    ███████████████████▒░░░░░   77.58 %
+JSON     59 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 %
+Vue.js   37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
+YAML     24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+HTML     13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
 ```
 
 <!--END_SECTION:waka-->
