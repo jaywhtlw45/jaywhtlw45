@@ -50,8 +50,9 @@ When I’m not writing code, you’ll probably find me at the grill or spending 
 <!--START_SECTION:waka-->
 
 ```txt
-JSON   14 mins         █████████████████▒░░░░░░░   69.92 %
-C++    6 mins          ███████▓░░░░░░░░░░░░░░░░░   30.08 %
+CSS    41 mins         █████████████████▒░░░░░░░   69.37 %
+HTML   11 mins         █████░░░░░░░░░░░░░░░░░░░░   19.97 %
+C++    6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 %
 ```
 
 <!--END_SECTION:waka-->
