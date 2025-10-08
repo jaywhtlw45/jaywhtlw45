@@ -50,9 +50,7 @@ When I’m not writing code, you’ll probably find me at the grill or spending 
 <!--START_SECTION:waka-->
 
 ```txt
-CSS    12 mins         ████████████▒░░░░░░░░░░░░   49.69 %
-PHP    11 mins         ███████████░░░░░░░░░░░░░░   43.98 %
-YAML   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
