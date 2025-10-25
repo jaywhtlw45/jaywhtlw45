@@ -50,7 +50,11 @@ When I’m not writing code, you’ll probably find me at the grill or spending 
 <!--START_SECTION:waka-->
 
 ```txt
-YAML   1 min           █████████████████████████   100.00 %
+YAML         1 min           ████████████▓░░░░░░░░░░░░   50.99 %
+Bash         0 secs          ████░░░░░░░░░░░░░░░░░░░░░   15.47 %
+Other        0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.74 %
+PowerShell   0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 %
+Markdown     0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
 ```
 
 <!--END_SECTION:waka-->
