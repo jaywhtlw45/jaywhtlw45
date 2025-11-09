@@ -50,11 +50,11 @@ When I’m not writing code, you’ll probably find me at the grill or spending 
 <!--START_SECTION:waka-->
 
 ```txt
-Blade Template   1 hr 39 mins    ██████████▓░░░░░░░░░░░░░░   42.43 %
-PHP              1 hr 20 mins    ████████▓░░░░░░░░░░░░░░░░   34.15 %
-JSON             19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
-Bash             17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
-Vue.js           10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
+Blade Template             1 hr 39 mins    █████████▓░░░░░░░░░░░░░░░   38.68 %
+PHP                        1 hr 20 mins    ███████▓░░░░░░░░░░░░░░░░░   31.13 %
+YAML                       27 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 %
+JSON                       19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
+Bash                       18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
 ```
 
 <!--END_SECTION:waka-->
